@@ -1,0 +1,13 @@
+body {
+    /* background: url('https://myanimelist.cdn-dena.com/s/common/uploaded_files/1461037962-4b397f04a0b6a0993e6832bc116f4aa0.jpeg'); */
+    background: linear-gradient(to right, red , blue);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: rgba(red, green, blue, alpha);
+    border: 8px dashed  yellow;
+}
+#special {
+    background: blueviolet;
+}
